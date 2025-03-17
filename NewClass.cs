@@ -10,7 +10,7 @@ namespace VjezbaPIS
     {
         void PraznaMetoda()
         {
-            int x = 10;
+            // The almighty collaborator collaborates.
         }
     }
 }
