@@ -8,5 +8,9 @@ namespace VjezbaPIS
 {
     internal class NewClass
     {
+        void PraznaMetoda()
+        {
+            
+        }
     }
 }
